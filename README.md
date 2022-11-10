@@ -3,7 +3,7 @@ Python implementation of standard and modified IP algorithms for constructing ma
 
 References
 
-Vazquez, A. R. and Xu, H. (2022). An integer programming algorithm for constructing maximin distance designs from good lattice point sets. Submitted to _Statistica Sinica_.
+Vazquez, A. R. and Xu, H. (2022). An integer programming algorithm for constructing maximin distance designs from good lattice point sets. Accepted for publication in _Statistica Sinica_.
 
 Williams, E. J. (1949). Experimental designs balanced for the estimation of residual effects of treatments. _Australian Journal of Scientific Research_ 2, 149–168.
 
